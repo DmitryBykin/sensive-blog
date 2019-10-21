@@ -1,0 +1,16 @@
+#private data
+.env
+
+#virtual env
+venv/*
+
+#editor config
+.editorconfig
+*.sublime-project
+
+#db
+db.*
+
+#media data
+media/*
+screenshots/*
